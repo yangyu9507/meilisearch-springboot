@@ -1,0 +1,7 @@
+server:
+  port: 9000
+
+meilisearch:
+  host-url: http://34.81.137.66:7700
+  api-key: CFecoHk1Xl_uhGszXdExLXDFsXYaiVCNOnz9HdyBkD4
+
